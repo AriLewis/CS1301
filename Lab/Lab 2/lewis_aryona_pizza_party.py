@@ -1,3 +1,5 @@
+''' Pizza party, lots of inputs and identifying diff between floats and integers and also restricting the amount of decimals of floats.'''
+
 people = int(input('Please enter the number of people attending the party: '))
 pizza = int(input('PLease enter the number of pizzas purchased for the party: '))
 diameter = int(input('Please enter the diameter of the pizzas: '))

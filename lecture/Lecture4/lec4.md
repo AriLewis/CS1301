@@ -53,4 +53,5 @@ Integers and strongs are *immutable* meaning integers and strings.. section 2.3
 
  'import random' 
  - useful random functions: 
-    - randrange() generates random integers within a specific range. 
+    - randrange() generates random integers within a specific range. exlusive. 
+    - randint() inclusive of the number. 
