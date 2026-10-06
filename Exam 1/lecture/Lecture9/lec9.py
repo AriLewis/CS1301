@@ -88,3 +88,6 @@ if x > 5:
         print("Branch 2")
 else:
     print("Branch 3")
+
+for i in range(20,4,-4):
+    print(i)
